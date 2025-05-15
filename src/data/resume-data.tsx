@@ -6,9 +6,9 @@ export const RESUME_DATA = {
   location: `Brasov, Romania, EET`,
   locationLink: "https://www.google.com/maps/place/Brasov",
   about:
-    "Senior Software Engineer | Backend | Cloud ",
+    "Technical Lead | Senior Backend Engineer ",
   summary:
-    "As a Software Backend Engineer, I have successfully converted ideas into features and products. I analyse, prioritize and implement concepts & architectural decisions in order to enhance the product and I trust the process when everyone from a team understands the product and the details. Currently, I work mostly with Node.js, Typescript and AWS Cloud Services. I have over 9 years of experience as a software developer and I work remotely.",
+    "As a Technical Team Lead and Senior Backend Engineer, I bring over 10+ years of backend development experience, primarily in Node.js, TypeScript, Java and AWS Cloud Services. In the past year, I have stepped into a Team Lead role, where I’ve led a team of engineers through the successful delivery of new features and improvements. My approach balances technical excellence with strong communication and team collaboration, ensuring alignment between engineering efforts and product goals. I’m passionate about system architecture, performance, and cloud-native development, and I believe the best results come when the entire team understands the product context and underlying technical decisions.",
   avatarUrl: "https://avatars.githubusercontent.com/u/8904832?v=4",
   personalWebsiteUrl: "https://www.dan-novac.com",
   contact: {
@@ -25,11 +25,6 @@ export const RESUME_DATA = {
         url: "https://www.linkedin.com/in/dan-novac-40062974/",
         icon: LinkedInIcon,
       },
-      {
-        name: "X",
-        url: "https://x.com/daninovac",
-        icon: XIcon,
-      },
     ],
   },
   education: [
@@ -45,9 +40,18 @@ export const RESUME_DATA = {
       company: "Ateliere",
       link: "https://www.ateliere.com/",
       badges: ["Remote"],
+      title: "Technical Team Lead",
+      start: "2024",
+      end: "present",
+      description: "As a Technical Team Lead and Senior Backend Engineer, I bring over 10 years of backend development experience, primarily in Node.js, TypeScript, and AWS cloud services. In the past year, I have stepped into a Team Lead role, where I’ve led a team of engineers through the successful delivery of new features and improvements. My approach balances technical excellence with strong communication and team collaboration, ensuring alignment between engineering efforts and product goals. As a leader, I’ve been responsible for: task breakdown, technical analysis, effort estimation, and Jira task creation; code reviews and mentorship; organizing and leading technical syncs, team planning meetings, and product alignment discussions; prioritization of work and removing blockers to keep development smooth and focused.",
+    },
+    {
+      company: "Ateliere",
+      link: "https://www.ateliere.com/",
+      badges: ["Remote"],
       title: "Senior Software Engineer",
       start: "2021",
-      end: "present",
+      end: "2024",
       description:
         "Migrated services to Serverless infrastructure. Developed quality and performant solutions using AWS Cloud infrastructure and services, such as: Lambda, DynamoDB, CloudFormation, Step Functions, SQS, SNS, Cloudwatch. Implemented new features using Typescript, Node.js, GraphQL, Terraform, Bash scripts. Worked with media industry tools such as ffmpeg, dolby. Developed infra orchestrating solutions using Kubernetes, Docker and Keda.",
     },
