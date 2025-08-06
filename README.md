@@ -1,5 +1,7 @@
 ![cv](public/cv_dn.png)
 
+## Deployed on [Vercel](https://portfolio-v2-jsai.vercel.app/)
+
 Simple web app that renders minimalist CV with print-friendly layout.
 
 Built with Next.js and shadcn/ui, deployed on Vercel.
