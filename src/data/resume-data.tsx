@@ -120,13 +120,13 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "[Rink-radar] Brasov Hockey stats",
+      title: "Brasov Hockey stats",
       techStack: ["Side Project", "Typescript", "NodeJS", "ReactJS", "Docker", "Fastify", "Prisma", "Data scraping", "API Routes", "Express", "Cron jobs", "Vercel", "Render" ],
       description:
         "Platform for tracking stats, schedules, and data for the Brașov hockey team. The service is built with Node.js, Fastify, and Prisma, and it's designed to be deployed as a Docker container. It aggregates data from multiple sources, including the Erste Liga and Elite Prospects APIs, and serves it through a clean, consistent REST API.",
       link: {
         label: "rink-radar",
-        href: "https://github.com/dnovac/wolvesden-service",
+        href: "https://www.rink-radar.live/",
       },
     },
     {
