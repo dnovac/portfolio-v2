@@ -92,7 +92,7 @@ export const RESUME_DATA = {
     "API Gateway",
     "Cloudwatch",
     "SSM",
-    "Bash scripts"
+    "Bash scripts",
     "GitHub Actions",
     "Step Functions",
     "Monorepo",
