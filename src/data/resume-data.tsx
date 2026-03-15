@@ -43,7 +43,7 @@ export const RESUME_DATA = {
       title: "Senior Software Engineer",
       start: "2025",
       end: "present",
-      description: "Extenal Senior Software Engineer for the LEGO Group. I develop new features and implement AWS infrastructure for the LEGO Account. I am building new architectures from infrastructure stacks and constructs, observability tools, backend services and some frontend features, deploy pipelines and github actions workflows, scripts and new api routes. I use technologies such as: AWS, Lambdas, Api Gateways, CDNs, Secrets, Typescript, NodeJS etc.",
+      description: "Senior Software Engineer for the LEGO Group. I develop new features and implement AWS infrastructure for the LEGO Account. I am building new architectures from infrastructure stacks and constructs, observability tools, backend services and some frontend features, deploy pipelines and github actions workflows, scripts and new api routes. I use technologies such as: AWS, Lambdas, Api Gateways, CDNs, Secrets, Typescript, NodeJS etc.",
     },
     {
       company: "Ateliere",
