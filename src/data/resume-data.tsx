@@ -6,13 +6,13 @@ export const RESUME_DATA = {
   location: `Brasov, Romania, EET`,
   locationLink: "https://www.google.com/maps/place/Brasov",
   about:
-    "Technical Lead | Senior Backend Engineer ",
-  summary:
-    "As a Technical Team Lead and Senior Backend Engineer, I bring over 10+ years of backend development experience, primarily in Node.js, TypeScript, Java and AWS Cloud Services. In the past year, I have stepped into a Team Lead role, where I’ve led a team of engineers through the successful delivery of new features and improvements. My approach balances technical excellence with strong communication and team collaboration, ensuring alignment between engineering efforts and product goals. I’m passionate about system architecture, performance, and cloud-native development, and I believe the best results come when the entire team understands the product context and underlying technical decisions.",
+    "Senior Software Engineer | Technical Lead",
+  summary: 
+  "I'm a Senior Software Engineer with over 10 years of experience, mostly in Node.js, TypeScript, Java and AWS Cloud Infrastructure. Most of my work lives in the parts of a product people never see - APIs, infrastructure, pipelines, databases, the things that should just quietly work. In a previous role I spent a year as Technical Team Lead, guiding a team of engineers through the delivery of new features and improvements. That period taught me something that stuck: the hardest problems usually aren't technical. They're about people understanding why a decision was made. These days I'm focused on systems architecture, performance, and cloud-native development. I care about clean code, systems that scale, and solutions that don't quietly drain a budget.",
   avatarUrl: "https://avatars.githubusercontent.com/u/8904832?v=4",
   personalWebsiteUrl: "https://www.dan-novac.com",
   contact: {
-    email: "danynovac@gmail.com",
+    email: "dan@dan-novac.com",
     // tel: "+0729530202 - not me, don't callme",
     social: [
       {
@@ -42,7 +42,7 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Senior Software Engineer",
       start: "2025",
-      end: "present",
+      end: "-",
       description: "Senior Software Engineer for the LEGO Group. I develop new features and implement AWS infrastructure for the LEGO Account. I am building new architectures from infrastructure stacks and constructs, observability tools, backend services and some frontend features, deploy pipelines and github actions workflows, scripts and new api routes. I use technologies such as: AWS, Lambdas, Api Gateways, CDNs, Secrets, Typescript, NodeJS etc.",
     },
     {
@@ -78,15 +78,18 @@ export const RESUME_DATA = {
   skills: [
     "AWS", 
     "Node.js",
-    "Lambda functions",
+    "Lambda",
     "Serverless",
     "TypeScript",
     "Java",
     "Kubernetes",
     "Docker",
     "Terraform",
+    "CDK",
+    "Pulumi",
     "SQS",
     "SNS",
+    "Database", 
     "DynamoDB / RDS / PostgreSQL",
     "CDN",
     "API Gateway",
@@ -95,6 +98,7 @@ export const RESUME_DATA = {
     "Bash scripts",
     "GitHub Actions",
     "Step Functions",
+    "ffmpeg",
     "Monorepo",
     "ReactJS",
     "Turbo",
@@ -120,7 +124,7 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Brasov Hockey stats",
+      title: "Brasov Hockey",
       techStack: ["Side Project", "Typescript", "NodeJS", "ReactJS", "Docker", "Fastify", "Prisma", "Data scraping", "API Routes", "Express", "Cron jobs", "Vercel", "Render" ],
       description:
         "Platform for tracking stats, schedules, and data for the Brașov hockey team. The service is built with Node.js, Fastify, and Prisma, and it's designed to be deployed as a Docker container. It aggregates data from multiple sources, including the Erste Liga and Elite Prospects APIs, and serves it through a clean, consistent REST API.",
